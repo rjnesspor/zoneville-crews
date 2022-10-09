@@ -1,0 +1,11 @@
+name: ZoneCrews
+version: '${project.version}'
+main: me.itsry.zonecrews.Main
+softdepend: [ PlaceholderAPI ]
+authors: [ ItsRy_ ]
+
+commands:
+  openMenu:
+  setClass:
+  getClass:
+  deletePlayerData:
